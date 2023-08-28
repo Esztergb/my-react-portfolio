@@ -6,10 +6,12 @@ export default function About() {
            <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
              <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
                Hi, I'm Eszter.
-               <br className="hidden lg:inline-block" />Full Stack Web Developer
+               <br className="hidden lg:inline-block" />
+               Full Stack Web Developer
              </h1>
              <p className="mb-8 leading-relaxed">
-               About me section
+               Logical and results-driven full stack developer dedicated to
+               building and optimizing user-focused websites and applications.
              </p>
              <div className="flex justify-center">
                <a

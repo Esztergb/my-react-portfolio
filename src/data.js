@@ -1,35 +1,34 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Doggy GPS",
+    subtitle: "Group Project",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "Future dog owners will be able to search different dog breeds, find their attributes, and discover places to adopt them.",
+    image: "./doggygps.gif",
+    link: "https://esztergb.github.io/doggy-gps/",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Weather Dashboard",
+    subtitle: "Openweather API",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+      "A simple web-app that allows you to search for a city and get the current weather and 5 day forecast.",
+    image: "./weatherdashboard.gif",
+    link: "https://esztergb.github.io/weather-dashboard/",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Book Club",
+    subtitle: "Sequelize and Node.js",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+      "Book search engine. Allows user to look at books by genre, create a login and select books to be added to 'my favourite' books.",
+    image: "./bookclub.png",
+    link: "https://morning-headland-11001-5962299a3945.herokuapp.com/",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+    title: "Note Taker",
+    subtitle: "Express and Heroku",
+    description: "Note Taker that can be used to write and save notes.",
+    image: "./notetaker.gif",
+    link: "https://github.com/Esztergb/employee-tracker",
   },
 ];
 
