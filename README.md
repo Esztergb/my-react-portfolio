@@ -1,70 +1,64 @@
-# Getting Started with Create React App
+# <span style="color:gold">My React Portfolio</span>
+<div align="center">
+  
+  # [EszterBarbuscia.com](https://eszterbarbuscia.com/)
+    
+  <a href="">[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)</a>
+  <a href="">[![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)](https://nodejs.org/en)</a>
+  <a href=""> [![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)](https://react.dev/)</a>
+  <a href=""> ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)</a>
+  
+</div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  
+## User Story
 
-## Available Scripts
+AS A newly graduated student, I WANT to be able to promote my work and resume, SO THAT I can land a job
 
-In the project directory, you can run:
 
-### `yarn start`
+## Description 
+Learn more about me, see my latest projects, and download my resume with work and education experiences. 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+I want to hear from you! Send me a message via the contact or form or email me at eszterbarbuscia@gmail.com. 
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<div align="center">
 
-### `yarn test`
+![Example screenshot](./src/assets/Screenshot%202023-08-28%20at%207.19.29%20PM.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+</div>
 
-### `yarn build`
+## Table of Contents
+* [Installation](#installation)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
+* [Contributors](#contributors)
+  
+## Installation 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* Start server with command `npm start`.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## License
+This project is covered under the MIT licence.  
+To learn more click on the following *[link](https://opensource.org/licenses/MIT)*
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## How to Contribute 
+Please follow Contributor Covenant Guidelines by clicking on the following link: 
+*[Contributor Covenant](https://www.contributor-covenant.org/)*
 
-### `yarn eject`
+## Tests
+No tests, just start the server and run the app 
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Questions
+Please visit [GitHub Repo](https://github.com/Esztergb/bookclub) to view this project.
+[Heroku Deployed Page](https://morning-headland-11001-5962299a3945.herokuapp.com/)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+##  Credits
+Thank you for tips and sugestions from Bootcamp instructors and classmates. I have used https://www.w3schools.com/ and https://www.stackoverflow.com to research information. Codes were based on mini project and some other modules from bootcamp. 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Contributors
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Eszter Barbuscia 
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
